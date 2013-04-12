@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jonasfagundes</groupId>
+  <artifactId>jdbcvalet</artifactId>
+  <version>2013.04</version>
+  <versioning>
+    <versions>
+      <version>2013.04</version>
+    </versions>
+    <lastUpdated>20130412035655</lastUpdated>
+  </versioning>
+</metadata>
